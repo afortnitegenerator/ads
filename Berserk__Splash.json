@@ -5,8 +5,8 @@
             "link_redirect": "",
             
             
-             "select_main_ads": "UNITY",
-            "select_backup_ads": "UNITY",
+             "select_main_ads": "APPLOVIN-D",
+            "select_backup_ads": "APPLOVIN-D",
             
             
             "main_ads_banner": "",
@@ -17,8 +17,8 @@
             "backup_ads_reward": "",
             
             
-            "main_ads_intertitial": "5376395",
-            "backup_ads_intertitial": "5376395",
+            "main_ads_intertitial": "",
+            "backup_ads_intertitial": "",
             
             
             "main_ads_native": "",
