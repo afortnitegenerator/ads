@@ -4,12 +4,12 @@
     
      "VPN_URL"              : "https://ia801207.us.archive.org/31/items/9abtin/guttss.json",
     
- "select_main_ads": "ADMOB",
-      "select_backup_ads": "ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "backup_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+ "select_main_ads": "UNITY",
+      "select_backup_ads": "UNITY",
+      "main_ads_banner": "Banner_Android",
+      "main_ads_intertitial": "Interstitial_Android",
+      "backup_ads_banner": "Banner_Android",
+      "backup_ads_intertitial": "Interstitial_Android",
       "initialize_sdk": "5380840",
       "initialize_sdk_backup_ads": "5380840",
       "interstitial_counter": "1",
