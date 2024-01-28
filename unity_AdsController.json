@@ -1,48 +1,30 @@
 {
-  "ADS": {
+  "AdsController": {
        
     
-     "VPN_URL"              : "https://ia801207.us.archive.org/31/items/9abtin/gutts.json",
+     "VPN_URL"              : "https://ia801207.us.archive.org/31/items/9abtin/guttss.json",
     
-
-            "status_app": "",
-            "link_redirect": "",
-            
-            
-             "select_main_ads": "APPLOVIN-D",
-            "select_backup_ads": "APPLOVIN-D",
-            
-            
-            "main_ads_banner": "",
-            "backup_ads_banner": "",
-            
-            
-            "main_ads_reward": "",
-            "backup_ads_reward": "",
-            
-            
-            "main_ads_intertitial": "",
-            "backup_ads_intertitial": "",
-            
-            
-            "main_ads_native": "",
-            "backup_ads_native": "",
-            
-            
-            "initialize_sdk": "",
-            "initialize_sdk_backup_ads": "",
+ "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "1",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+        "status_app": "0",
+      "link_redirect": "https://"
+      
+      
     
-            
-            
-            
-            
-            
-            "high_paying_keyword_1": "",
-            "high_paying_keyword_2": "",
-            "high_paying_keyword_3": "",
-            "high_paying_keyword_4": "",
-            "high_paying_keyword_5": "",
-            "interstitial_counter": "0"
-        }
-    ]
+    
+  }
+  
+ 
 }
