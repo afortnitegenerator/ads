@@ -5,28 +5,28 @@
             "link_redirect": "",
             
             
-             "select_main_ads": "APPLOVIN-D",
-            "select_backup_ads": "APPLOVIN-D",
+             "select_main_ads": "UNITY",
+            "select_backup_ads": "UNITY",
             
             
             "main_ads_banner": "",
             "backup_ads_banner": "",
             
             
-            "main_ads_reward": "",
-            "backup_ads_reward": "",
+            "main_ads_reward": "Rewarded_Android",
+            "backup_ads_reward": "Rewarded_Android",
             
             
-            "main_ads_intertitial": "",
-            "backup_ads_intertitial": "",
+            "main_ads_intertitial": "Interstitial_Android",
+            "backup_ads_intertitial": "Interstitial_Android",
             
             
             "main_ads_native": "",
             "backup_ads_native": "",
             
             
-            "initialize_sdk": "",
-            "initialize_sdk_backup_ads": "",
+            "initialize_sdk": "5376395",
+            "initialize_sdk_backup_ads": "5376395",
     
             
             
