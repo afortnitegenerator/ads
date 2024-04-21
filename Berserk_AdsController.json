@@ -4,8 +4,8 @@
     
      "VPN_URL"              : "https://ia601207.us.archive.org/31/items/9abtin/9abtin.json",
     
- "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads": "APPLOVIN-D",
+ "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "APPLOVIN-M",
       "main_ads_banner": "",
       "main_ads_intertitial": "",
       "backup_ads_banner": "",
