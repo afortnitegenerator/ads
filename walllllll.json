@@ -135,20 +135,7 @@
     }
   ],
   "wallpapers": [
-    {
-      "wallpaper_id": 1,
-      "category_name": "...",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/70/87/31/708731ddb82f51e2d104c178c3184f20.jpg"
-    },
-{
-      "wallpaper_id": 1,
-      "category_name": "...",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/b7/a7/65/b7a765ffa96eb026e5d3d9957a699e7a.jpg"
-    },
+    
 {
       "wallpaper_id": 1,
       "category_name": "...",
