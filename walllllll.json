@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "Anime",
+      "featured_categories": ,
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
@@ -73,11 +73,7 @@
     }
   ],
   "categories": [
-    {
-      "category_id": 1,
-     "category_name": "Anime",
-      "category_image": "https://i.pinimg.com/originals/64/81/22/648122e47e5b440922682cc3b1652159.jpg"
-    }
+ 
   ],
   "wallpapers": [
 
