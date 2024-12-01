@@ -1,115 +1,295 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ALIEN-V",
+      "select_main_ads": "UNITY",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "backup_ads_natives":"PL160825171540",
-      "backup_ads_banner":"PL160825171540",
-      "backup_ads_intertitial":"PL160825171540",
-      "backup_ads_rewards":"PL160825171540",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "open_ads_alien":"PL160825171540",
-      "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"1",
-      "switch_open_ads":"1",
+      "main_ads_intertitial":"Interstitial_Android",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"Banner_Android",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"PL160825171540",
+      "initialize_sdk":"5380840",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://",
-      "on_off_category":""
-    }
-  ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
+      "link_redirect": "https://"
 
+    }
+  ],
   "Categories": [
     {
+      "category_name": "Fart Sound",
+      "category_image": "file:///android_asset/image/1.png"
+    },
+    {
+      "category_name": "Airhorn",
+      "category_image": "file:///android_asset/image/2.png"
+    },
+    {
+      "category_name": "Baby Sneeze",
+      "category_image": "file:///android_asset/image/3.png"
+    },
+    {
+      "category_name": "Gun",
+      "category_image": "file:///android_asset/image/4.png"
+    },
+    {
+      "category_name": "Door Bell",
+      "category_image": "file:///android_asset/image/5.png"
+    },
+    {
+      "category_name": "Fireworks",
+      "category_image": "file:///android_asset/image/6.png"
+    },
+    {
+      "category_name": "Hair Clipper",
+      "category_image": "file:///android_asset/image/7.png"
+    },
+    {
+      "category_name": "Scary",
+      "category_image": "file:///android_asset/image/8.png"
+    }
+  ],
+  "Sound": [
+    {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
+      "category_name": "Airhorn",
+      "sound_name": "Airhorn 01",
+      "sound_file": "https://aliendro.id/uploads/demo/prank/airhorn1.mp3"
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
+      "category_name": "Airhorn",
+      "sound_name": "Airhorn 02",
+      "sound_file": "https://aliendro.id/uploads/demo/prank/airhorn2.mp3"
     },
     {
       "id": 3,
-      "name_category": "Car",
-      "image": "https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+      "category_name": "Airhorn",
+      "sound_name": "Airhorn 03",
+      "sound_file": "https://aliendro.id/uploads/demo/prank/airhorn3.mp3"
+    },
+    {
+      "id": 4,
+      "category_name": "Airhorn",
+      "sound_name": "Airhorn 04",
+      "sound_file": "https://aliendro.id/uploads/demo/prank/airhorn4.mp3"
+    },
+    {
+      "id": 5,
+      "category_name": "Airhorn",
+      "sound_name": "Airhorn 05",
+      "sound_file": "https://aliendro.id/uploads/demo/prank/airhorn5.mp3"
+    },
+    {
+      "id": 6,
+      "category_name": "Fart Sound",
+      "sound_name": "Fart Sound 01",
+      "sound_file": "sound/sound1.mp3"
+    },
+    {
+      "id": 7,
+      "category_name": "Fart Sound",
+      "sound_name": "Fart Sound 02",
+      "sound_file": "sound/sound2.mp3"
+    },
+    {
+      "id": 8,
+      "category_name": "Fart Sound",
+      "sound_name": "Fart Sound 03",
+      "sound_file": "sound/sound3.mp3"
+    },
+    {
+      "id": 9,
+      "category_name": "Fart Sound",
+      "sound_name": "Fart Sound 04",
+      "sound_file": "sound/sound4.mp3"
+    },
+    {
+      "id": 10,
+      "category_name": "Fart Sound",
+      "sound_name": "Fart Sound 05",
+      "sound_file": "sound/sound5.mp3"
+    },
+    {
+      "id": 11,
+      "category_name": "Gun",
+      "sound_name": "Gun 01",
+      "sound_file": "sound/gun1.mp3"
+    },
+    {
+      "id": 12,
+      "category_name": "Gun",
+      "sound_name": "Gun 02",
+      "sound_file": "sound/gun2.mp3"
+    },
+    {
+      "id": 13,
+      "category_name": "Gun",
+      "sound_name": "Gun 03",
+      "sound_file": "sound/gun3.mp3"
+    },
+    {
+      "id": 14,
+      "category_name": "Gun",
+      "sound_name": "Gun 04",
+      "sound_file": "sound/gun4.mp3"
+    },
+    {
+      "id": 15,
+      "category_name": "Gun",
+      "sound_name": "Gun 05",
+      "sound_file": "sound/gun5.mp3"
+    },
+    {
+      "id": 16,
+      "category_name": "Baby Sneeze",
+      "sound_name": "Baby Sneeze 01",
+      "sound_file": "sound/snezee1.mp3"
+    },
+    {
+      "id": 17,
+      "category_name": "Baby Sneeze",
+      "sound_name": "Baby Sneeze 02",
+      "sound_file": "sound/snezee2.mp3"
+    },
+    {
+      "id": 18,
+      "category_name": "Baby Sneeze",
+      "sound_name": "Baby Sneeze 03",
+      "sound_file": "sound/snezee3.mp3"
+    },
+    {
+      "id": 19,
+      "category_name": "Baby Sneeze",
+      "sound_name": "Baby Sneeze 04",
+      "sound_file": "sound/snezee4.mp3"
+    },
+    {
+      "id": 20,
+      "category_name": "Baby Sneeze",
+      "sound_name": "Baby Sneeze 05",
+      "sound_file": "sound/snezee5.mp3"
+    },
+    {
+      "id": 21,
+      "category_name": "Door Bell",
+      "sound_name": "Door Bell 01",
+      "sound_file": "sound/door1.mp3"
+    },
+    {
+      "id": 22,
+      "category_name": "Door Bell",
+      "sound_name": "Door Bell 02",
+      "sound_file": "sound/door2.mp3"
+    },
+    {
+      "id": 23,
+      "category_name": "Door Bell",
+      "sound_name": "Door Bell 03",
+      "sound_file": "sound/door3.mp3"
+    },
+    {
+      "id": 24,
+      "category_name": "Door Bell",
+      "sound_name": "Door Bell 04",
+      "sound_file": "sound/door4.mp3"
+    },
+    {
+      "id": 25,
+      "category_name": "Door Bell",
+      "sound_name": "Door Bell 05",
+      "sound_file": "sound/door5.mp3"
+    },
+    {
+      "id": 26,
+      "category_name": "Fireworks",
+      "sound_name": "Fireworks 01",
+      "sound_file": "sound/fire1.mp3"
+    },
+    {
+      "id": 27,
+      "category_name": "Fireworks",
+      "sound_name": "Fireworks 02",
+      "sound_file": "sound/fire2.mp3"
+    },{
+      "id": 28,
+      "category_name": "Fireworks",
+      "sound_name": "Fireworks 03",
+      "sound_file": "sound/fire3.mp3"
+    },
+    {
+      "id": 29,
+      "category_name": "Fireworks",
+      "sound_name": "Fireworks 04",
+      "sound_file": "sound/fire4.mp3"
+    },
+    {
+      "id": 30,
+      "category_name": "Fireworks",
+      "sound_name": "Fireworks 05",
+      "sound_file": "sound/fire5.mp3"
+    },
+    {
+      "id": 31,
+      "category_name": "Hair Clipper",
+      "sound_name": "Hair Clipper 01",
+      "sound_file": "sound/hair1.mp3"
+    },
+    {
+      "id": 32,
+      "category_name": "Hair Clipper",
+      "sound_name": "Hair Clipper 02",
+      "sound_file": "sound/hair2.mp3"
+    },
+    {
+      "id": 33,
+      "category_name": "Hair Clipper",
+      "sound_name": "Hair Clipper 03",
+      "sound_file": "sound/hair3.mp3"
+    },
+    {
+      "id": 34,
+      "category_name": "Scary",
+      "sound_name": "Scary 01",
+      "sound_file": "sound/horor1.mp3"
+    },
+    {
+      "id": 35,
+      "category_name": "Scary",
+      "sound_name": "Scary 02",
+      "sound_file": "sound/horor2.mp3"
+    },
 
-    }
-  ],
+    {
+      "id": 36,
+      "category_name": "Scary",
+      "sound_name": "Scary 03",
+      "sound_file": "sound/horor3.mp3"
+    },
 
-  "Data":
-  [
     {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "id": 37,
+      "category_name": "Scary",
+      "sound_name": "Scary 04",
+      "sound_file": "sound/horor4.mp3"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-    },
-    {
-      "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
-    },
-    {
-      "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "id": 35,
+      "category_name": "Scary",
+      "sound_name": "Scary 05",
+      "sound_file": "sound/horor5.mp3"
     }
-  ,
-    {
-      "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
-    },
-    {
-      "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
-    }
+
   ]
 }
