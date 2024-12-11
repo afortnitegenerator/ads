@@ -12,7 +12,7 @@
      
       "open_app_ads":"",
       
-      "interval_intertitial": 1,
+      "interval_intertitial": 3,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
