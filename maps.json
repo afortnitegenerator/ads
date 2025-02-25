@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "9c2d32759b957b59",
+      "main_ads_intertitial":"9c2d32759b957b59",
+      "backup_ads_banner":"4103c12ea7815de3",
+      "backup_ads_intertitial":"4103c12ea7815de3",
+      "open_app_ads":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"5376395",
+      "initialize_sdk_backup_ads":"5376395",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Maps": [
+    {
+      "name": "Ultimate Map Collection",
+      "download": "https://aliendro.id/projek/allmaps/umc.zip",
+      "image": "file:///android_asset/umc1.png",
+      "image2": "file:///android_asset/umc2.png",
+      "image3": "file:///android_asset/umc3.png",
+      "image4": "file:///android_asset/umc4.png",
+      "description": "Welcome to the second part of UMC! Go check out the first part for a fun experience. This is a considerably larger map with 10 levels for you to explore! A part 3 will be released later this year(2022). Let's get started :)"
+    },
+    {
+      "name": "Zombie Island",
+      "download": "https://aliendro.id/projek/allmaps/zombie.zip",
+      "image": "https://aliendro.id/projek/allmaps/zombie1.jpeg",
+      "image2": "https://aliendro.id/projek/allmaps/zombie2.jpeg",
+      "image3": "https://aliendro.id/projek/allmaps/zombie3.jpeg",
+      "image4": "https://aliendro.id/projek/allmaps/zombie1.jpeg",
+      "description": "In this map you spawn on a island infected by a zombie plague. Your main goal is to survive and survive you will. There are different parts of the map like a broken town, a forest, and a base. Throughout these areas there can be loot stashed away in which you can find. The island is isolated so leaving it will not help your cause. Your best means of survival is to take what you can find and make it last. Just watch out for the undead and don't starve! Later the island will be updated and likely expanded on! If you liked this map and want more subscribe to my YouTube Channel and join my Discord Server. I make maps, tutorials, and more!"
+    },
+    {
+      "name": "Apex Legends - Firing Range",
+      "download": "https://aliendro.id/projek/allmaps/ApexFiringRange.mcworld",
+      "image": "https://aliendro.id/projek/allmaps/ApexFiringRange1.jpeg",
+      "image2": "https://aliendro.id/projek/allmaps/ApexFiringRange2.jpeg",
+      "image3": "https://aliendro.id/projek/allmaps/ApexFiringRange3.jpeg",
+      "image4": "https://aliendro.id/projek/allmaps/ApexFiringRange4.jpeg",
+      "description": "A simple Firing Range. Special is the custom Add-On that adds a selection of Guns and Items from Apex Legends to this map. Test your skills with these items and defend yourself against armed bots."
+    },
+    {
+      "name": "Parkour Tag Factory",
+      "download": "https://aliendro.id/projek/allmaps/parkour.zip",
+      "image": "https://aliendro.id/projek/allmaps/parkour1.jpeg",
+      "image2": "https://aliendro.id/projek/allmaps/parkour2.jpeg",
+      "image3": "https://aliendro.id/projek/allmaps/parkour3.jpeg",
+      "image4": "https://aliendro.id/projek/allmaps/parkour4.jpeg",
+      "description": "Have you ever wanted to play a Minecraft Championship Minigame named Parkour Tag in MCPE/MCBE? Well, you are in the right place, let me introduce a fan-made creation of Parkour Tag Factory map. Its fully functional and fully automatic. Wanna know the best thing? It doesn't have any player limits for multiplayer. Isn't that a crazy thing?"
+    },
+    {
+      "name": "Jurassic Craft World",
+      "download": "https://aliendro.id/projek/allmaps/jurassicworlds.zip",
+      "image": "https://aliendro.id/projek/allmaps/jurassicworlds1.jpg",
+      "image2": "https://aliendro.id/projek/allmaps/jurassicworlds2.jpg",
+      "image3": "https://aliendro.id/projek/allmaps/jurassicworlds3.jpg",
+      "image4": "https://aliendro.id/projek/allmaps/jurassicworlds4.jpg",
+      "description": "Creators: Gona (Twitter), Daniel Martinez (Twitter), This map lets you explore Jurassic World in Minecraft Pocket Edition. At the same time it is an incredibly detailed map it's also amazingly huge. The park includes the Visitor Center, a big hotel, 18 different dinosaur types and much more. It's really a must-play for anyone who loves Minecraft and dinosaurs!"
+    },
+    {
+      "name": "Super Mansion",
+      "download": "https://aliendro.id/projek/allmaps/supermansion.mcworld",
+      "image": "https://aliendro.id/projek/allmaps/supermansion1.jpg",
+      "image2": "https://aliendro.id/projek/allmaps/supermansion2.jpg",
+      "image3": "https://aliendro.id/projek/allmaps/supermansion3.jpg",
+      "image4": "https://aliendro.id/projek/allmaps/supermansion4.jpg",
+      "description": "Creator: SswizZGaymer, The Super Mansion is a modern home which features lots of redstone creations. For example, the entrance of the house requires a secret passcode to enter. There are several hidden storage rooms all throughout the mansion. Basically everything which can be used for something requires some type of redstone mechanism to be enabled and accessed."
+    }
+  ]
+}
