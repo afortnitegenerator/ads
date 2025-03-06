@@ -1,44 +1,25 @@
 {
-    "ADS": [
-        {
-            "status_app": "",
-            "link_redirect": "",
-            
-            
-             "select_main_ads": "APPLOVIN-M",
-            "select_backup_ads": "APPLOVIN-M",
-            
-            
-            "main_ads_banner": "",
-            "backup_ads_banner": "",
-            
-            
-            "main_ads_reward": "",
-            "backup_ads_reward": "",
-            
-            
-            "main_ads_intertitial": "d2571c8e4b4e8d04",
-            "backup_ads_intertitial": "d2571c8e4b4e8d04",
-            
-            
-            "main_ads_native": "",
-            "backup_ads_native": "",
-            
-            
-            "initialize_sdk": "",
-            "initialize_sdk_backup_ads": "",
-    
-            
-            
-            
-            
-            
-            "high_paying_keyword_1": "",
-            "high_paying_keyword_2": "",
-            "high_paying_keyword_3": "",
-            "high_paying_keyword_4": "",
-            "high_paying_keyword_5": "",
-            "interstitial_counter": "0"
-        }
-    ]
+  "AdsController": {
+    "VPN_URL": "https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/VPN_Bella.json",
+    "select_main_ads": "APPLOVIN-M",
+    "select_backup_ads": "APPLOVIN-M",
+    "main_ads_banner": "",
+    "backup_ads_banner": "",
+    "main_ads_reward": "",
+    "backup_ads_reward": "",
+    "main_ads_intertitial": "",
+    "backup_ads_intertitial": "",
+    "main_ads_native": "",
+    "backup_ads_native": "",
+    "initialize_sdk": "",
+    "initialize_sdk_backup_ads": "",
+    "interstitial_counter": "0",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }
 }
