@@ -13,12 +13,12 @@
             "backup_ads_banner": "764b0a7f1ce09edf",
             
             
-            "main_ads_reward": "238ba166db348f2a",
-            "backup_ads_reward": "238ba166db348f2a",
+            "main_ads_reward": "",
+            "backup_ads_reward": "",
             
             
-            "main_ads_intertitial": "",
-            "backup_ads_intertitial": "",
+            "main_ads_intertitial": "238ba166db348f2a",
+            "backup_ads_intertitial": "238ba166db348f2a",
             
             
             "main_ads_native": "",
