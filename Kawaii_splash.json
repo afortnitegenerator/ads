@@ -5,16 +5,16 @@
             "link_redirect": "",
             
             
-             "select_main_ads": "APPLOVIN-D",
-            "select_backup_ads": "APPLOVIN-D",
+             "select_main_ads": "APPLOVIN-M",
+            "select_backup_ads": "APPLOVIN-M",
             
             
-            "main_ads_banner": "",
-            "backup_ads_banner": "",
+            "main_ads_banner": "764b0a7f1ce09edf",
+            "backup_ads_banner": "764b0a7f1ce09edf",
             
             
-            "main_ads_reward": "",
-            "backup_ads_reward": "",
+            "main_ads_reward": "238ba166db348f2a",
+            "backup_ads_reward": "238ba166db348f2a",
             
             
             "main_ads_intertitial": "",
